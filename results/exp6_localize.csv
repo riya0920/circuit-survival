@@ -1,0 +1,7 @@
+condition,retention_mean,retention_std
+none (full quant),0.2,0.02
+restore W_Q,0.41,0.04
+restore W_K,0.76,0.04
+restore W_V,0.2,0.02
+restore W_O,0.2,0.02
+restore ALL 4,1.0,0.03
